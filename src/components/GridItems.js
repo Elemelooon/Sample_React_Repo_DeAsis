@@ -1,7 +1,12 @@
 import {Button, Card} from 'react-bootstrap';
-
+import { Link } from 'react-router-dom';
 
 const GridItems = (props) => {
+  let information = {
+    name: props.name,
+    image: props.image,
+    desc: props.desc 
+  }
     return ( 
         <>
         <div className="col-4">
@@ -12,7 +17,11 @@ const GridItems = (props) => {
                 <Card.Text>
                 {props.desc}
                 </Card.Text>
-              <Button variant="primary">Go somewhere</Button>
+              <Button variant="dark">
+                <Link to="/Sample_React_Repo_DeAsis/SinglePage" state={information}>
+                Learn More
+                </Link>
+              </Button>
               </Card.Body>
           </Card>
           </div>
