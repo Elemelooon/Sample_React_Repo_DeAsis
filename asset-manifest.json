@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sample_React_Repo_DeAsis/static/css/main.88404e20.css",
-    "main.js": "/Sample_React_Repo_DeAsis/static/js/main.ef62a903.js",
+    "main.js": "/Sample_React_Repo_DeAsis/static/js/main.583376cc.js",
     "static/js/787.eed000a1.chunk.js": "/Sample_React_Repo_DeAsis/static/js/787.eed000a1.chunk.js",
     "static/media/ai.jpg": "/Sample_React_Repo_DeAsis/static/media/ai.0d7ce41c12919ac69b3a.jpg",
     "static/media/wampiiiss.png": "/Sample_React_Repo_DeAsis/static/media/wampiiiss.3a34fa2722ce6ed6c77c.png",
@@ -11,11 +11,11 @@
     "static/media/jjk.jpg": "/Sample_React_Repo_DeAsis/static/media/jjk.0145bc514ba75b5a4fa2.jpg",
     "index.html": "/Sample_React_Repo_DeAsis/index.html",
     "main.88404e20.css.map": "/Sample_React_Repo_DeAsis/static/css/main.88404e20.css.map",
-    "main.ef62a903.js.map": "/Sample_React_Repo_DeAsis/static/js/main.ef62a903.js.map",
+    "main.583376cc.js.map": "/Sample_React_Repo_DeAsis/static/js/main.583376cc.js.map",
     "787.eed000a1.chunk.js.map": "/Sample_React_Repo_DeAsis/static/js/787.eed000a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88404e20.css",
-    "static/js/main.ef62a903.js"
+    "static/js/main.583376cc.js"
   ]
 }
